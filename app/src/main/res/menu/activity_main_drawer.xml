@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@mipmap/notification"
+            android:title="Notifications" />
+        <item
+            android:id="@+id/nav_directory"
+            android:icon="@mipmap/directory"
+            android:title="Doctor's directory" />
+        <item
+            android:id="@+id/nav_symptoms"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Send symptoms" />
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@mipmap/edit"
+            android:title="Edit info" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@mipmap/history"
+            android:title="History" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@mipmap/logout"
+            android:title="Log Out" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+        </menu>
+    </item>
+
+</menu>
+    <!-- Icons should have dotted background-->

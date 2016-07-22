@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Patient</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="title_activity_sign_up">SignUP</string>
+    <string name="title_activity_sign_in">SignIn</string>
+    <string name="title_activity_view_doctor">viewDoctor</string>
+    <string name="title_activity_view_doctor_layout">viewDoctor_layout</string>
+</resources>
